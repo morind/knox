@@ -82,6 +82,7 @@
         <module>gateway-service-rm</module>
         <module>gateway-service-storm</module>
         <module>gateway-service-definitions</module>
+        <module>gateway-service-logsearch</module>
         <module>gateway-shell</module>
         <module>gateway-shell-launcher</module>
         <module>knox-cli-launcher</module>
